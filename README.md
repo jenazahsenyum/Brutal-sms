@@ -8,11 +8,11 @@ pkg install git
 
 python -m pip install requests
 
-git clone https://github.com/jenazahsenyum/
+git clone https://github.com/jenazahsenyum/Brutal-sms
 
-cd brutal
+cd Brutal-sms
 
-python 
+python Brutal-Sms
 
 #Note
 
