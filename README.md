@@ -1,7 +1,7 @@
 # Brutal-sms
 Tools ini digunakan untuk orang yang jail
 
-#cara install
+# Cara install
 pkg install python
 
 pkg install git
