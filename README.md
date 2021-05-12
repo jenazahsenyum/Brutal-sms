@@ -13,3 +13,7 @@ git clone https://github.com/jenazahsenyum/
 cd brutal
 
 python 
+
+#Note
+
+Semoga kamu puas bangsat😊
