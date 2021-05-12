@@ -14,7 +14,5 @@ cd brutal
 
 python 
 
-
 #Note
-
 Semoga kamu puas bangsat😊
