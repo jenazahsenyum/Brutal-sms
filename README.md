@@ -15,4 +15,4 @@ cd brutal
 python 
 
 #Note
-Semoga kamu puas bangsat😊
+Semoga kamu puas bangsat😊😊
