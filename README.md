@@ -12,7 +12,7 @@ git clone https://github.com/jenazahsenyum/Brutal-sms
 
 cd Brutal-sms
 
-python Brutal-Sms
+python Brutal-Sms.py
 
 #Note
 
