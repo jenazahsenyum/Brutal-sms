@@ -14,6 +14,6 @@ cd Brutal-sms
 
 python Brutal-Sms.py
 
-#Note
+# Note
 
 Semoga kamu puas bangsat😊😊
