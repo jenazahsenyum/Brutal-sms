@@ -1,5 +1,5 @@
 # Brutal-sms
-Tools ini digunakan untuk orang yang jail
+Tools ini Digunakan untuk SPAM nomer TRI
 
 # Cara install
 pkg install python
